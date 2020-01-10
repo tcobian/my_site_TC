@@ -18,27 +18,27 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Reserach Associate"
+  company = "Patagonia Inc."
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  location = "Ventura, California"
+  date_start = "2019-07-01"
+  date_end = "2019-10-01"
+  description = 
+  """
+  * Build a library of research on carbon sequestration potential of agricultural products within Patagonia’s supply chain, this was used by management and marketing to guide their regenerative organic program.
+  * Calculate the carbon impact of Patagonia’s surfboard production using life cycle assessment.
+  * Create a model in R that would predict materials ability to repel water after applying different chemistries.
+  * Determine the social, environmental, and technical impacts of different plastics, chemistries, and bio products that was then utilized by materials designers.
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Sustaimability Assistant"
+  company = "City of Ventura"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Ventura, California"
+  date_start = "2017-05-01"
+  date_end = "2017-082-31"
+  description = """"""
 
 +++

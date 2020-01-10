@@ -42,4 +42,6 @@ user_groups:
 - Visitors
 ---
 
-Tyler Cobian is a current University of California Santa Barbara graduate student. His nundergraduate degree was obtained at the University of California Merced in Economics and Business Management. His masters focus is in Corporte Environmental Management with and emphasis in Environmental Data Science. Recent project include modeling chnages in soil carbon due to the implimentation of regenerative organic agriculture for Patagonia inc. Other projects include Life Cycle Assessment of footwear for Deckers and scope 2 carbion accounting for Night Lizard Brewing.
+Tyler Cobian is a current University of California Santa Barbara graduate student. His nundergraduate degree was obtained at the University of California Merced in Economics and Business Management. His masters focus is in Corporte Environmental Management with and emphasis in Environmental Data Science. 
+
+Recent project include modeling chnages in soil carbon due to the implimentation of regenerative organic agriculture for Patagonia inc. Other projects include Life Cycle Assessment of footwear for Deckers and scope 2 carbion accounting for Night Lizard Brewing.
