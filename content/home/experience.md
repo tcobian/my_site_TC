@@ -24,13 +24,11 @@ date_format = "Jan 2006"
   location = "Ventura, California"
   date_start = "2019-07-01"
   date_end = "2019-10-01"
-  description = 
-  """
-  * Build a library of research on carbon sequestration potential of agricultural products within Patagonia’s supply chain, this was used by management and marketing to guide their regenerative organic program.
+  description ="""
+  * Build a library of research on carbon sequestration potential of   agricultural products within Patagonia’s supply chain, this was used by management and marketing to guide their regenerative organic program.
   * Calculate the carbon impact of Patagonia’s surfboard production using life cycle assessment.
   * Create a model in R that would predict materials ability to repel water after applying different chemistries.
-  * Determine the social, environmental, and technical impacts of different plastics, chemistries, and bio products that was then utilized by materials designers.
-  """
+  * Determine the social, environmental, and technical impacts of different plastics, chemistries, and bio products that was then utilized by materials designers."""
 
 [[experience]]
   title = "Sustaimability Assistant"
@@ -39,6 +37,9 @@ date_format = "Jan 2006"
   location = "Ventura, California"
   date_start = "2017-05-01"
   date_end = "2017-082-31"
-  description = """"""
+  description = """
+  * Composing research on Integrated Pest Management practices that informs citizens on effective ways to deal with pests in the home with non-chemical solutions.
+  * Establish relationships for local businesses to sponsor beach cleanups.
+  * Performed data collection on the City of Ventura’s recycling and composting program."""
 
 +++
